@@ -1,1 +1,0 @@
-# colony-counting-yolov8
