@@ -1,0 +1,13 @@
+path: /Users/guillemcobos/Library/CloudStorage/GoogleDrive-guillem.cobos@koabiotech.com/.shortcut-targets-by-id/1UQ_YnLRmoAqhCue-qXYNP9QhYorsiAxS/KOA Biotech/03. KOA DATA/Colony counting/colony-counting-yolov8/data
+train: images/train 
+val: images/val  
+
+names: # With Green equivalence
+    0: vharveyi # 147
+    1: vangil # 255
+    2: valgino # 250
+    3: assalmonicida # 125
+    4: tmaritimum # 126
+    5: sinniae # 198
+    6: pdpiscicida # 221
+    7: pddamselae # 82
