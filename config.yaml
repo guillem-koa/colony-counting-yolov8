@@ -1,4 +1,4 @@
-path: /Users/guillemcobos/Library/CloudStorage/GoogleDrive-guillem.cobos@koabiotech.com/.shortcut-targets-by-id/1UQ_YnLRmoAqhCue-qXYNP9QhYorsiAxS/KOA Biotech/03. KOA DATA/Colony counting/colony-counting-yolov8/data
+path: /content/drive/MyDrive/KoaBiotech/colony-counting-yolov8/data
 train: images/train 
 val: images/val  
 
